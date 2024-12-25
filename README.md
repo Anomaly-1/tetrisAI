@@ -70,11 +70,14 @@ python main.py
 - Up Arrow: Rotate piece
 - Down Arrow: Soft drop
 - Space: Hard drop
-- F: Toggle fullscreen
+- F11: Toggle fullscreen
 
 ### AI Mode
 - Click AI/Manual button to toggle AI control
 - Set AI move speed at startup (default: 0.01 seconds)
+
+### Settings
+All settings are in **settings.py**
 
 ## AI Implementation
 
